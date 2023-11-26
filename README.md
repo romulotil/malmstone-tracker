@@ -1,7 +1,7 @@
-PVP Malsmtones
+# PVP Malsmtones
 
 Tracker of remaining wins (or loses) needed for PVP Series levels
-WIP based on [this thing I made](https://malmstone-tracker.web.app)
+BSased on [this thing I made](https://malmstone-tracker.web.app)
 [repo](https://github.com/romulotil/pvp-calculator)
 
 STILL READING THIS :)
