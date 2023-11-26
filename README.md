@@ -1,3 +1,12 @@
+PVP Malsmtones
+
+Tracker of remaining wins (or loses) needed for PVP Series levels
+WIP based on [this thing I made](https://malmstone-tracker.web.app)
+[repo](https://github.com/romulotil/pvp-calculator)
+
+STILL READING THIS :)
+VVVVVVVVVVVVVV
+
 > ⚠️ **Don't click Fork!**
 > 
 > This is a GitHub Template repo. If you want to use this for a plugin, just [use this template][new-repo] to make a new repo!
